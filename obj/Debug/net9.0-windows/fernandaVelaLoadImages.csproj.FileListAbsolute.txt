@@ -1,0 +1,16 @@
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\bin\Debug\net9.0-windows\fernandaVelaLoadImages.exe
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\bin\Debug\net9.0-windows\fernandaVelaLoadImages.deps.json
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\bin\Debug\net9.0-windows\fernandaVelaLoadImages.runtimeconfig.json
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\bin\Debug\net9.0-windows\fernandaVelaLoadImages.dll
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\bin\Debug\net9.0-windows\fernandaVelaLoadImages.pdb
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.Form1.resources
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.dll
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\refint\fernandaVelaLoadImages.dll
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.pdb
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\fernandaVelaLoadImages.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Documents\FerVS2022\fernandaVelaLoadImages\obj\Debug\net9.0-windows\ref\fernandaVelaLoadImages.dll

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hecto\\OneDrive\\Documents\\FerVS2022\\fernandaVelaLoadImages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D6F3E-87DF-4E09-8DD1-68929AC02F82}|fernandaVelaLoadImages.csproj|c:\\users\\hecto\\onedrive\\documents\\fervs2022\\fernandavelaloadimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01D6F3E-87DF-4E09-8DD1-68929AC02F82}|fernandaVelaLoadImages.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D6F3E-87DF-4E09-8DD1-68929AC02F82}|fernandaVelaLoadImages.csproj|c:\\users\\hecto\\onedrive\\documents\\fervs2022\\fernandavelaloadimages\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01D6F3E-87DF-4E09-8DD1-68929AC02F82}|fernandaVelaLoadImages.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Documents\\FerVS2022\\fernandaVelaLoadImages\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Documents\\FerVS2022\\fernandaVelaLoadImages\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:23:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Documents\\FerVS2022\\fernandaVelaLoadImages\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Documents\\FerVS2022\\fernandaVelaLoadImages\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:09:09.34Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
